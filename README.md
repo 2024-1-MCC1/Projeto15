@@ -9,7 +9,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/guimuniiz/">Guilherme Muniz(RA: 24026572)</a>, <a href="https://github.com/Felipewk7">Felipe Wakasa( RA: 24026544)</a>, <a href="https://github.com/nicolass1906">Nicolas Soeiro (RA: 24025933)</a>, <a href="https://github.com/arthur-paltrinieri">Arthur Paltrinieri(RA: 24026559)</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq">Victor Bruno Alexander Rosetti de Queiroz</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq">Victor Bruno Alexander Rosetti de Queiroz</a> , <a href="https://www.linkedin.com/in/adriano-valente-534576135/"> Adriano Felix Valente</a> , <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/"> Fabiano Alves Onça</a>
 
 ## Descrição
 
@@ -31,42 +31,57 @@
 Não há instalação! Apenas executável!
 Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
 
-
-## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
 
 ## 🗃 Histórico de lançamentos
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+* 0.6.0 - 19/05/2024
+    * Upando o jogo com o executavel no github
+    * Finalização do projeto e entrega dele
 
+* 0.5.1 - 16/05/2024
+    * Reogarnização e revisão final dos scripts/cenario
+    * Juntando todas as versões do jogo em apenas um repositorio 
+    * Finalizando o projeto
+
+* 0.5.0 - 09/05/2024
+    * Finalizar todos os scripts feito
+    * iniciar o checkpoint entre as fases
+
+* 0.4.1 - 06/05/2024
+    * Criando o Canvas do jogo
+    * Criando o menu do jogo
+    * Criando os textos que estará entre as fases
+
+* 0.4.0 - 30/04/2024
+    *Criando slide de apresentação da Equipe
+    *Revisando o projeto do zero
+* 0.3.1 - 23/04/2024
+    * Fase 3 - pampa finalizado
+    * Finalizando scripts de movimentação e animações
+    * Iniciando o script do caçador atirando
+
+* 0.3.0 - 18/04/2024
+    * Fase 2 - Cidade finalizado
+    * add: Adicionando animações aos personagens
+
+* 0.2.1 - 15/04/2024
+    * MUDANÇA: Corrigindo Cenario
+     
+* 0.2.0 - 13/03/2024
+    * Iniciando a criação dos cenarios do jogo
+    * Fase 1- Bioma Cerrado finalizado
+* 0.1.1 - 09/04/2024
+    * Pegando modelos prontos do caçador e lobo-guará.
+    * Corrigindo os scripts
+* 0.1.0 - 05/04/2024
+    * Criação do nome e logotipo do projeto
+    * Scripts inicias de movimentação dos personagens
+* 0.0.1 - 03/04/2024
+    * Trabalho EcoFury em andamento
+    * Definição do projeto
 ## 📋 Licença/License
 
 <p>EcoFury © 2024 by Fecap Guilherme Muniz, Arthur Paltrinieri, Felipe Wakasa, Nicolas Soeiro is licensed under <a rel="license" href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1"> CC BY 4.0</a></p>
@@ -75,8 +90,14 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+1. <https://sketchfab.com/3d-models/low-poly-fox-by-pixelmannen-animated-371dea88d7e04a76af5763f2a36866bc>
+2. <https://sketchfab.com/3d-models/survivor-toon-style-5aa13349079141d0927b8ea96e1349c4>
+3. <https://sketchfab.com/3d-models/winchester-1873-rifle-6941ec1e75e24a379764185e93182a63>
+4. <https://sketchfab.com/3d-models/bullet-8333d86fe2674aaf8888cc5fa4537d20>
+5. <https://assetstore.unity.com/packages/3d/environments/boki-low-poly-nature-206385>
+6. <https://assetstore.unity.com/packages/3d/environments/urban/simple-urban-buildings-pack-1-33563>
+7. <https://assetstore.unity.com/packages/3d/environments/urban/uk-terraced-houses-pack-free-63481>
+8. <https://assetstore.unity.com/packages/3d/trash-low-poly-cartoon-pack-66229>
+9. <https://assetstore.unity.com/packages/2d/textures-materials/glass/stylized-grass-texture-153153>
+10. <https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-and-flowers-pack-1-17100>
+11. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
