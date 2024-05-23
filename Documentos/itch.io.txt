@@ -1,0 +1,8 @@
+
+ EcoFury
+
+-Um jogo de concientização sobre alterações climaticas devido ações humanas.
+
+- O jogo EcoFury vem para te entreter e te conscientizar sobre os Biomas Brasileiros e como as alterações humanas estão presentes e afetam a flora e a fauna, mas também a vida terrestre desses bichos que já habituavam ali. O personagem principal é o lobo-guará, um bicho em extinção devido ações humanas no habitat natural dele.
+
+-TAGS: Conscientização e Biomas Brasileiros
