@@ -84,7 +84,7 @@ A cada atualização os detalhes devem ser lançados aqui.
     * Definição do projeto
 ## 📋 Licença/License
 
-<p>EcoFury © 2024 by Fecap Guilherme Muniz, Arthur Paltrinieri, Felipe Wakasa, Nicolas Soeiro is licensed under <a rel="license" href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1"> CC BY 4.0</a></p>
+<p>EcoFury © 2024 by Fecap, Guilherme Muniz, Arthur Paltrinieri, Felipe Wakasa, Nicolas Soeiro is licensed under <a rel="license" href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1"> CC BY 4.0</a></p>
 
 ## 🎓 Referências
 
