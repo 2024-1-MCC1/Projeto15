@@ -9,7 +9,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/guimuniiz/">Guilherme Muniz(RA: 24026572)</a>, <a href="https://github.com/Felipewk7">Felipe Wakasa( RA: 24026544)</a>, <a href="https://github.com/nicolass1906">Nicolas Soeiro (RA: 24025933)</a>, <a href="https://github.com/arthur-paltrinieri">Arthur Paltrinieri(RA: 24026559)</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq">Victor Bruno Alexander Rosetti de Queiroz</a> , <a href="https://www.linkedin.com/in/adriano-valente-534576135/"> Adriano Felix Valente</a> , <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/"> Fabiano Alves Onça</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq">Victor Bruno Alexander Rosetti de Quiroz</a> , <a href="https://www.linkedin.com/in/adriano-valente-534576135/"> Adriano Felix Valente</a> , <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/"> Fabiano Alves Onça</a>
 
 ## Descrição
 
